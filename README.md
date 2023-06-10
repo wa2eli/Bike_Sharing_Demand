@@ -1,1 +1,2 @@
-# Bike_Sharing_Demand
+# Udacity
+Project 1
